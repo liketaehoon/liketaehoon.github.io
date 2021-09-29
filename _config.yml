@@ -1,0 +1,73 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: 구태훈 Taehoon Koo
+email: liketaehoon@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  INSTAWASH CTO 구태훈입니다. 회사를 함께 운영하여 느끼는 생각들을 정리하는 공간입니다.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://liketaehoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: liketaehoon/liketaehoon.github.io
+twitter: 
+github: 
+
+google_analytics:
+comments: true
+disqus: watery-jekyll
+
+author: Taehoon Koo
+author_bio: >-
+  INSTAWASH CTO 구태훈입니다. 
+  기업가 정신, 창업가 에 관심이 많으며, 새로운 사업에 대해서 이야기 하는 것을 좋아합니다. 
+  레이 달리오 저 ⌜원칙⌟ 핸리 포드 저 ⌜나의 삶과 일⌟ 클레이턴 크리스텐슨 저 ⌜일의 언어⌟ 를 인생 책으로 꼽습니다.
+  
+author_pic: https://user-images.githubusercontent.com/5652598/135353281-7cd20e70-d918-488b-9dd4-70e833b139cd.jpg
+
+paginate: 10
+paginate_path: "/:num/"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Build settings
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+permalink: /:title
+
+theme_switcher: false
+
+# Allows all pages to be put into `_pages` folder
+# for easier navigation and better SEO.
+collections:
+  pages:
+    output: true
+    permalink: /:title
+
+# Exclude from processing.
+exclude:
+  - ".jekyll-cache"
+  - "Gemfile"
+  - "Gemfile.lock"
