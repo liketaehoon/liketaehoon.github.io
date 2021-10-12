@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date: 2020-11-01
+title:  "나의 꿈, 나의회사"
+date: 2021-10-01
 tags:
-  - jekyll
-  - markdown
+  - 창업
+  - Startup
 ---
+
+블로그를 시작합니다. 내가 만들고 싶은 회사에 대해서 글쓰기
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
