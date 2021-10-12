@@ -4,29 +4,33 @@ title: About
 permalink: /about/
 ---
 
-**Watery** is a minimalist, bare-bones theme for the popular JAMstack file-based CMS Jekyll that only uses the `<80kb` [**Water.css** framework](https://github.com/kognise/water.css) (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.
+안녕하세요, 구태훈입니다. 
 
-I created this because I wasn't able to find an up-to-date starter/skeleton theme for Jekyll. Even the default theme, Minima, uses the large Bootstrap framework.
+### 해피테크놀로지 CTO 입니다.
 
-This project is aimed towards those curious about using Jekyll for the first time, and want to build from as close to scratch as possible. Alternatively, it still has all the features required for creating a hassle-free, informational website or blog in just a few clicks.
+스타트업 임원으로 회사에 필요한 기술 전반에 대해서 책임을 지고 있습니다.<br>
+`구성원의 발전을 통해 회사를 성장시킨다.`는 믿음 아래 조직관리 및 역량 강화에도 힘쓰고 있습니다.
 
-As of November 1st, 2020, with over 100 posts on Watery, the website scores a perfect 100 in Performance, Accessibility, Best Practices, and SEO on an audit with [**Google Lighthouse**](https://developers.google.com/web/tools/lighthouse).
+- OKR 
+- 빠른 실험을 통한 빠른 학습
 
-### Features
+### 소프트웨어 개발자 입니다.
 
-Despite Watery's minimalist nature, there are a few interesting features that have been added:
+OOP를 사랑하며, [Agile Manifesto](https://agilemanifesto.org/)를 지지합니다.<br>
+아래의 기술들에 익숙 합니다.
 
-- A fully customizable and empty `_BLANK_config.yml` to make getting up-and-running easy.
-- Having a `_pages` collection for easier organization.
-- Auto-generated links to newly created pages in the navigation.
-- An author bio at the end of each post. (Located in `_inclues/author.html`)
-- Full Rouge support for syntax highlighting. (Currently using `base16.solarized.light`)
-- Auto-generated RSS feed, sitemap, accessibility features, and search-engine optimization.
+- Spring Boot 
+- ExpressJs w/ NodeJS
+- iOS app w/ Swift
+- AOS app w/ Kotlin
+- Amazon Web Services
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 독서를 사랑합니다. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- ⌜원칙⌟ 레이 달리오 
+- ⌜일의 언어⌟ 클레이턴 크리스텐슨
+- ⌜나의 삶과 일⌟ 헨리 포드
 
-[jekyll-organization]: https://github.com/jekyll
+### 감사합니다.
+
+제 블로그를 찾아 주신 모든 분들께 감사합니다.
